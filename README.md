@@ -1,2 +1,3 @@
-This is my 3rd sem mini project
-Author:Vidhi Gandhi
+# Mini-Project
+This is my 3rd sem Mini project
+AUthor:Vidhi Gandhi
